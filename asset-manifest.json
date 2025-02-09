@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.193d5048.css",
+    "main.js": "/static/js/main.bc77d14f.js",
+    "static/media/logo.PNG": "/static/media/logo.8f537f5180820a98a9f5.PNG",
+    "static/media/banner.webp": "/static/media/banner.6a2656ddf73309c6ac31.webp",
+    "static/media/plantable_seeds_logo.jpeg": "/static/media/plantable_seeds_logo.c2ea17562bba4eaa15c6.jpeg",
+    "static/media/lok_tantra_logo.jpeg": "/static/media/lok_tantra_logo.64cfcf64f6b13a1b3bb5.jpeg",
+    "index.html": "/index.html",
+    "main.193d5048.css.map": "/static/css/main.193d5048.css.map",
+    "main.bc77d14f.js.map": "/static/js/main.bc77d14f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.193d5048.css",
+    "static/js/main.bc77d14f.js"
+  ]
+}
